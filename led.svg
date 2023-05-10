@@ -1,0 +1,12 @@
+<svg width="40" height="20">
+
+  <circle cx="10" cy="10" r="7" fill="white" stroke="black" stroke-width="1"/>
+
+  <polyline points="10,3 10,0 30,0 30,3" fill="none" stroke="black" stroke-width="1" />
+
+  <polyline points="10,17 10,20 30,20 30,17" fill="none" stroke="black" stroke-width="1" />
+
+  <line x1="10" y1="10" x2="30" y2="10" stroke="black" stroke-width="1"/>
+
+</svg>
+
